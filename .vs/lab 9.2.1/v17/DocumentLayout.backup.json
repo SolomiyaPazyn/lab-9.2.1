@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\lab 9.2.1\\lab 9.2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6B63AC-F90B-4857-BBCD-F4BCFE1A4114}|lab 9.2.1.vcxproj|D:\\programming\\lab 9.2.1\\lab 9.2.1\\lab 9.2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E6B63AC-F90B-4857-BBCD-F4BCFE1A4114}|lab 9.2.1.vcxproj|solutionrelative:lab 9.2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6728DA-E22C-47A8-B3A3-990639B0059D}|UnitTest1\\UnitTest1.vcxproj|D:\\programming\\lab 9.2.1\\lab 9.2.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D6728DA-E22C-47A8-B3A3-990639B0059D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 9.2.1\\lab 9.2.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\programming\\lab 9.2.1\\lab 9.2.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:21:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab 9.2.1.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 9.2.1\\lab 9.2.1\\lab 9.2.1.cpp",
+              "RelativeDocumentMoniker": "lab 9.2.1.cpp",
+              "ToolTip": "D:\\programming\\lab 9.2.1\\lab 9.2.1\\lab 9.2.1.cpp",
+              "RelativeToolTip": "lab 9.2.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T19:32:28.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
